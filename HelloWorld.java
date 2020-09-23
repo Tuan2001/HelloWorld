@@ -1,0 +1,6 @@
+import java.util.Scanner;
+public class HelloWorld {
+    public static void main(String[] agrs) {
+        System.out.print("Hello World!");
+    }
+}
